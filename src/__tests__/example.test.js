@@ -1,5 +1,7 @@
+import { describe, expect, it, test } from '@jest/globals';
+
 describe(`example`, () => {
-  test(`should pass`, () => {
+  it(`should pass`, () => {
     expect(true).toBe(true);
   });
 });
