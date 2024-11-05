@@ -6,6 +6,7 @@ const IndexPage = () => {
     <div>
       <h1>Home Page</h1>
       <Counter />
+      <p>im deploooooyed!</p>
     </div>
   );
 };
