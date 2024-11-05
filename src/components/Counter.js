@@ -17,7 +17,6 @@ const Counter = () => {
       <p>Current count: {count}</p>
       <button onClick={increment}>Increment</button>
       <button onClick={decrement}>Decrement</button>
-      <p>hope our pr gets merged...</p>
     </div>
   );
 };
